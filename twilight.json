@@ -1,0 +1,21 @@
+{
+    "version": "1.0.0",
+    "theme_name": "Theme One",
+    "repo_url": "https://github.com/marufnahid/salla-app",
+    "support_url": "https://salla.dev",
+    "settings": [
+        {
+          "type": "boolean",
+          "label": "شريط علوي داكن",
+          "id": "topnav_is_dark",
+          "format": "switch",
+          "selected": false
+        },
+        {
+          "type": "string",
+          "id": "placeholder",
+          "format": "hidden",
+          "value": "images/img_placeholder.png"
+        }
+      ]
+  }
